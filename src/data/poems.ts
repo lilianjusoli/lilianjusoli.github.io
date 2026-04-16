@@ -101,72 +101,13 @@ Perdi a fé que não precisava de provas.
 Perdi a esperança que errava
 e, errando, me salvava.
 Não sangro mais como antes.
-Também não floresço.
-A menina que eu fui
-tinha menos respostas
-e um mundo inteiro cabendo nos olhos.
-
-Acreditava em promessas tortas,
-em afetos mal escritos,
-em futuros que não pediam garantias.
-Hoje, desconfio até da alegria
-quando ela bate à porta sem aviso.
-Aprendi a pensar
-e pensar me custou o encantamento.
-
-Ganhei razão,
-perdi o delírio necessário
-para continuar acreditando no humano.
-Não sou amarga.
-Sou lúcida.
-E a lucidez é uma forma educada de luto.
-
-Há dias em que sinto saudade
-não de quem eu era,
-mas da fé que me habitava.
-Aquela fé imperfeita,
-quase infantil,
-que não exigia coerência do mundo
-para continuar de pé.
-Hoje, tudo precisa fazer sentido
-e quase nada faz.
-
-Sou melhor.
-Sou mais forte.
-Sou mais inteira.
-E, ainda assim,
-há um silêncio em mim
-onde antes morava um canto.
-Não peço para voltar.
-Não romantizo a ingenuidade.
-Mas lamento, com elegância,
-o preço invisível da maturidade:
-
-ela nos salva
-mas cobra em troca o brilho.
-Sei viver.
-Só não sei mais sonhar sem cautela.
-E talvez seja isso crescer:
-
-continuar caminhando
-mesmo depois de perceber
-que a fé não volta inteira,
-que a doçura não se recompra,
-e que a menina,
-uma vez desperta a mulher,
-não reaprende a dormir.
-
-Ainda assim, sigo.
-Com menos ilusões
-e mais verdade.
-E isso, embora doa,
-também é uma forma nobre de existir.
+Também...
 
 — Lilian Jusoli`,
   },
   {
     id: "documento",
-    title: "Documento",
+    title: "Quando vejo as mãos pequenas",
     excerpt: "Afeto, cuidado e amor como dádiva.",
     body: `Quando vejo as mãos pequenas
 Se esticando para me tocar,
